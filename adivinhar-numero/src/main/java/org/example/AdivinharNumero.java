@@ -7,10 +7,14 @@ public class AdivinharNumero {
 
         // determinar quantas tentativas o usuario tera
 
-        // input do usuario
-
         // gerar numero aleatorio
 
+        // input do usuario
+
         // comparar numero aleatorio com input do usuario (loop)
+
+        // dizer se o numero eh maior ou menor
+
+        // mensagem final
     }
 }
